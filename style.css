@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(51, 50, 50);
+    color: rgb(174, 102, 177);
+    font-family: verdana;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box {
+    background-color: white;
+    padding:4px;
+    border:inset;
+    border-radius: 6px;
+    border-color: blue;
+    margin:20px;
+    width: 30%;
+}
